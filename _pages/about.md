@@ -22,11 +22,13 @@ I received my PhD in Informatique from [l’UNIVERSITÉ CÔTE D’AZUR](http://u
 Earlier, I worked as a Senior Software Engineer at Alcatel-Lucent, India.
 
 
-My primary research interests are systems and networking. Current focus is on
+My primary areas of interest are systems and networking. The current focus is on
 software-defined and programmable networks. The state-of-the-art packet-processing
-languages and hardware architectures lack mechanisms that allow to create code 
-libraries and reuse them. My research aims to enable modular programming by 
+languages and hardware architectures lack mechanisms that allow them to create 
+and reuse code libraries. My research aims to enable modular programming by 
 designing languages and developing compilers for packet-processing targets. I 
-work at intersection of networking, systems, compilers and programming languages.
+work at the intersection of networking, systems, compilers, and programming 
+languages.
+
 
 
