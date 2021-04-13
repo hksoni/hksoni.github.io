@@ -10,16 +10,20 @@ profile:
 news: true
 social: true
 ---
-I am a post-doctoral research associate at Computer Science department
+
+I am a senior researcher at NEC Laboratories Europe GmbH. 
+
+I was a post-doctoral research associate at Computer Science department
 of <a href="https://www.cornell.edu" target="_blank">Cornell University</a>, USA. 
-I am working with Professor <a href="https://www.cs.cornell.edu/~jnfoster/" target="_blank">Nate Foster</a>.
+I worked with Professor <a href="https://www.cs.cornell.edu/~jnfoster/" target="_blank">Nate Foster</a>.
 Prior to joining Cornell, I was a PhD student advised by 
 [Thierry Turletti](https://team.inria.fr/diana/team-members/thierry-turletti/) and
 [Walid Dabbous](https://team.inria.fr/diana/team-members/walid-dabbous/) in
 [DIANA](https://team.inria.fr/diana/team-members/)
 team at [INRIA Sophia, France](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). 
 I received my PhD in Informatique from [l’UNIVERSITÉ CÔTE D’AZUR](http://univ-cotedazur.fr/fr). 
-Earlier, I worked as a Senior Software Engineer at Alcatel-Lucent, India.
+Earlier, I worked as a Senior Software Engineer at Alcatel-Lucent, India for a
+couple of years.
 
 
 My primary areas of interest are systems and networking. The current focus is on
