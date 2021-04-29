@@ -4,8 +4,9 @@ title: About
 permalink: /
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
+  address: NEC Laboratories Europe GmbH. <br> Kurfürsten-Anlage 36, <br> 69115 Heidelberg, Germany
 
 news: true
 social: true

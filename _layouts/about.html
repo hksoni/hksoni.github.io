@@ -22,36 +22,35 @@ layout: default
 
   <article>
     <div class="row">
-      <div class="col">
+      <div class="col-sm-8 col-12" align="left">
         {{ content }}
-      </div>
-        {% if page.profile %}
-        <div class="profile col-4 {% if page.profile.align == 'left' %}order-first{% endif %}">
-          {% if page.profile.image %}
-            <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image |
-            prepend: '/assets/img/' | relative_url }}" style="width: 230px">
-            <br>
-          {% endif %}
-          {% if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-          {% endif %}
-
-        </div>
-        {% endif %}
-    </div>
-    <div class="row">
-      <div class="col">
       {% if page.news %}
         {% include news.html %}
       {% endif %}
+
       </div>
-        <div class="profile col-4 {% if page.profile.align == 'left' %}order-first{% endif %}">
-          {% if page.social %}
-            <br>
-            {% include social.html %}
-          {% endif %}
+      {% if page.profile %}
+      <div class="profile col-sm-4 col-12 {% if page.profile.align == 'left'%}order-first{% endif %}" align=="center">
+      {% if page.profile.image %}
+        <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}"   align-"center">
+      {% endif %}
+      {% if page.profile.address %}
+      <div class="address">
+        <br>
+        Address: <br>
+        {{ page.profile.address }}
+      </div>
+      {% endif %}
+      <br>
+        {% if page.social %}
+        {% include social.html %}
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-12" align="center">
+        {% include publications.html %}
       </div>
     </div>
 
