@@ -1,13 +1,9 @@
 ---
-layout: page
-permalink: /publications/
+layout: post
 title: Publications
-description: Selected Articles
 nav: true
 ---
 
 <div class="publications">
-
 {% bibliography %}
-
 </div>
