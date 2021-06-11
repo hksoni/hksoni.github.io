@@ -1,5 +1,6 @@
 ---
 title: About
+navorder: '0'
 permalink: /
 
 profile:
@@ -11,7 +12,7 @@ news: true
 social: true
 ---
 
-I am a senior researcher at NEC Laboratories Europe GmbH. 
+I am a senior researcher at NEC Laboratories Europe GmbH since January 2021.
 
 I was a post-doctoral research associate at Computer Science department
 of <a href="https://www.cornell.edu" target="_blank">Cornell University</a>, USA. 
@@ -25,14 +26,15 @@ I received my PhD in Informatique from [l’UNIVERSITÉ CÔTE D’AZUR](http://u
 Earlier, I worked as a Senior Software Engineer at Alcatel-Lucent, India for a
 couple of years.
 
+__Research Interests:__ Programmable Networks, Networking, Systems,
+Compilers, Distributed Data Processing,
 
-My primary areas of interest are systems and networking. The current focus is on
-software-defined and programmable networks. The state-of-the-art packet-processing
-languages and hardware architectures lack mechanisms that allow them to create 
-and reuse code libraries. My research aims to enable modular programming by 
-designing languages and developing compilers for packet-processing targets. I 
-work at the intersection of networking, systems, compilers, and programming 
-languages.
+__My Reseach at NLE:__
+
+* [Composition Framework for Packet-processing Programs](/projects/composition/):
+  The goal is to build a composition framework for network programs developed 
+  for programmable switches and edge hosts with SmartNICs. 
+  If you are interested in the project, I would like to hear from you. 
 
 
 
