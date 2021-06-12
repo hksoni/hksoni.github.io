@@ -33,7 +33,8 @@ __My Reseach at NLE:__
 
 * [Composition Framework for Packet-processing Programs](/projects/composition/):
   The goal is to build a composition framework for network programs developed 
-  for programmable switches and edge hosts with SmartNICs. 
+  for programmable switches and edge hosts with SmartNICs. [Read more...](/projects/composition/)
+
   If you are interested in the project, I would like to hear from you. 
 
 
