@@ -2,7 +2,7 @@
 layout: page
 title: Composition Framework for Packet-processing Programs
 description:
-area: Programmable Networks, P4, Compilers
+area: Programmable Networks, P4, Compilers, Automata Theory, Equivalence checking, Bisimulation, Design By Contract, Hoare Logic.
 img:
 importance: 1
 ---
