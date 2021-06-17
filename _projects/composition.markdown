@@ -31,4 +31,4 @@ novel applications (performing in-network computing or caching) with
 packet-processing applications required in the networks.
 
 
-Interested graduate students and postdocs can send me their resumes at hardik.soni@neclab.eu
+Interested graduate students, postdocs and researchers can contact me at hardik.soni@neclab.eu
