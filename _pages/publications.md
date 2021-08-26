@@ -5,6 +5,3 @@ navorder: '1'
 nav: true
 ---
 
-<div class="publications">
-{% bibliography %}
-</div>
