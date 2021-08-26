@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Hardik Soni | Hardik Soni</title>
+<title>Hardik Soni | Composition Framework for Packet-processing Programs</title>
 <meta name="description" content="">
 
 <!-- Bootstrap & MDB -->
@@ -22,7 +22,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/composition/">
 
 <!-- Open Graph -->
 
@@ -117,54 +117,40 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Composition Framework for Packet-processing Programs</h1>
+    <p class="post-description"></p>
+    <p class="post-description"><b>Research Area:</b> Programmable Networks, P4, Compilers, Automata Theory, Equivalence checking, Bisimulation, Design By Contract, Hoare Logic.</p>
+  </header>
 
+  <article>
+    <p><strong>Description:</strong></p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/2018/12/22/distill.html">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/2015/10/20/comments.html">a post with comments</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/2015/10/20/math.html">a post with math</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-  </ul>
+<p>The state-of-the-art packet-processing languages, like <a href="https://p4.org/">P4</a>, and
+hardware architectures lack mechanisms that allow them to create and reuse code
+libraries. My current focus is on enabling a modular approach for the development
+of network programs. The goal is to build a composition framework for network 
+programs developed for programmable switches and edge hosts with SmartNICs.</p>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="Hardik Soni">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="Hardik Soni - page 2">2</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<p>Under this project, we</p>
+<ol>
+  <li>Develop optimized composition mechanisms for data plane of network programs. 
+The work advances my prior research, <a href="https://hksoni.github.io/assets/pdf/microp4.pdf">μP4</a>,
+and <a href="https://hal.inria.fr/hal-01632431">P4Bricks</a>, on data plane of programmable networks.</li>
+  <li>Design and develop control-plane APIs with well-defined semantics for library
+modules of network programs to configure data-plane objects in a coordinated way.</li>
+  <li>Develop composable abstractions for programming packet-processing devices at 
+the network edge.</li>
+</ol>
 
+<p>We aim to use the framework for incremental and modular development of new 
+services and applications for 5G networks. Also, the framework can integrate 
+novel applications (performing in-network computing or caching) with 
+packet-processing applications required in the networks.</p>
 
+<p>Interested graduate students, postdocs and researchers can contact me at hardik.soni@neclab.eu</p>
+
+  </article>
 
 </div>
 
