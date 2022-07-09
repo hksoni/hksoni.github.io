@@ -12,10 +12,10 @@ news: true
 social: true
 ---
 
-I have been a senior researcher at NEC Laboratories Europe GmbH since January
-2021.  I was a post-doctoral research associate at the Computer Science
-department of  <a href="https://www.cornell.edu" target="_blank">Cornell
-University</a>  from 2018 to 2020.  I worked with Professor <a
+I have been a senior researcher at NEC Laboratories Europe GmbH since January 2021.
+I was a post-doctoral research associate at the Computer Science department
+of  <a href="https://www.cornell.edu" target="_blank">Cornell University</a>
+from 2018 to 2020.  I worked with Professor <a
 href="https://www.cs.cornell.edu/~jnfoster/" target="_blank">Nate Foster</a>.
 Before joining Cornell, I was a PhD student advised by [Thierry
 Turletti](https://team.inria.fr/diana/team-members/thierry-turletti/) and [Walid
