@@ -6,7 +6,9 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  address: Am Kronberger Hang 8, 65824 Schwalbach am Taunus, Germany
+  address: Am Kronberger Hang 8, 
+           65824 Schwalbach am Taunus, 
+           Germany
 
 news: true
 social: true
